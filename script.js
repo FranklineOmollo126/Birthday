@@ -1,4 +1,4 @@
-      const target = new Date("July 6, 2026 12:35:00").getTime();
+      const target = new Date("July 6, 2026 14:20:00").getTime();
 
     function update() {
       const now = Date.now();
